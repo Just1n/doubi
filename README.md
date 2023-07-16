@@ -357,7 +357,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 wget -N --no-check-certificate https://raw.githubusercontent.com/Just1n/Posts/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
 vim /etc/resolv.conf
+
 vim /etc/hosts
+
+https://askubuntu.com/a/1392751
+
+
 ---
 
 ## DNS相关
