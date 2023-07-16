@@ -354,9 +354,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Just1n/Posts/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
-
+vim /etc/resolv.conf
+vim /etc/hosts
 ---
 
 ## DNS相关
